@@ -1,4 +1,4 @@
-# kfc-tsdb
+# kfc-tsdb-chart
 tsdb仪表盘、折线图
 
 # 没有调用接口测试数据
@@ -17,7 +17,7 @@ youli
 </template>
 
 <script>
-    import TsdbChart from '@/components/kfc-tsdb'
+    import TsdbChart from '@/components/kfc-tsdb-chart'
     components: {
         TsdbChart
     },
